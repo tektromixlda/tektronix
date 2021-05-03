@@ -1,4 +1,4 @@
-## Bem vindo a página oficial da Tektronix Lda.
+## Bem vindo a página oficial da Tektronix Lda. [Image](logo.png)
 
 A Tektronix é uma empresa moçambicana  que opera no  ramo de tecnologia de software, especificamente no desenvolvimento e implementação de soluções empresariais e domésticas [códico aberto](https://en.wikipedia.org/wiki/Open_source) que auxiliam na sua produtividade e segurança.
 
