@@ -1,6 +1,6 @@
 ## Bem vindo a página oficial da Tektronix Lda.
 
-A Tektronix é uma empresa moçambicana  que opera no  ramo de tecnologia de software, especificamente no desenvolvimento e implementação de soluções empresariais e domésticas [opensource](https://en.wikipedia.org/wiki/Open_source) que auxiliam na sua produtividade e segurança.
+A Tektronix é uma empresa moçambicana  que opera no  ramo de tecnologia de software, especificamente no desenvolvimento e implementação de soluções empresariais e domésticas [códico aberto](https://en.wikipedia.org/wiki/Open_source) que auxiliam na sua produtividade e segurança.
 
 
 #### Principais Perguntas:
@@ -53,6 +53,7 @@ Porque eu precisa de um servidor  proxy?
  
 
 ### Contactos
+- tektronix.lda@protonmail.ch
 - Telegram: https://t.me/TektronixLda
 - +258 845109456 	
 - +258 875109456
