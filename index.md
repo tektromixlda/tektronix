@@ -53,7 +53,7 @@ Porque eu precisa de um servidor  proxy?
  
 
 ### Contactos
-- tektronix.lda@protonmail.ch
 - Telegram: https://t.me/TektronixLda
+- tektronix.lda@protonmail.ch
 - +258 845109456 	
 - +258 875109456
